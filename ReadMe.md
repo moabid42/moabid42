@@ -1,4 +1,4 @@
-## 💻 About Me:
+## 🃏 About Me:
 Hi there, my name is Mouad and I am a cybersecurity enthusiast with a passion for red teaming and CTFs. I have a strong background in programming and always enjoy a good challenge. You can find me writing/reading writeups or learning about new technologies when I'm not hacking away. I'm always looking for new opportunities to collaborate and learn, so don't hesitate to reach out!
 
 
