@@ -9,9 +9,7 @@
 - 💬 Ask me about **Anything Low-level related**
 
 - 📝 I regularly write articles on [https://medium.com/@m0ab1d42](https://medium.com/@m0ab1d42)
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/moabid42/](https://www.linkedin.com/in/moabid42/)
-
+- 
 - 📫 How to reach me **mouadabid2002@gmail.com**
 
 - ⚡ Fun fact **I am 99% of the time: WHY? Oh that's why :)**
