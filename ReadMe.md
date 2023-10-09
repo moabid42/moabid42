@@ -1,5 +1,5 @@
 ## 🃏 About Me:
-<h1 align="center">Certified 0xniller</h1>
+<h1 align="center">Certified 0xnil</h1>
 <h3 align="center">I am a cybersecurity enthusiast with a passion for red teaming and CTFs. I have a strong background in programming and I always enjoy solving challenges. <br>
   A security researcher, with a focus in low level security and operating systems !<br>
   A part time meme dealer, who actually writes articles 🤡.<br>
