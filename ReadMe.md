@@ -5,7 +5,7 @@
   A security researcher, with a focus in low level security and operating systems !<br>
   A part time meme dealer, who actually writes articles 🤡.<br>
   Captain of Team L3ak -> https://ctftime.org/team/220336 <br>
-  I'm always looking for new opportunities to collaborate and learn, so don't hesitate to reach out!</h3>
+  I'm always looking for new opportunities to collaborate and learn, so don't hesitate to reach out!</h3><br>
 
 - 🔭 I’m currently working on **S3BucketScanner**
 
