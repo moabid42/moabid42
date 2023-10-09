@@ -1,6 +1,10 @@
 ## 🃏 About Me:
-<h1 align="center">Hi 👋, my name is Mouad</h1>
-<h3 align="center">I am a cybersecurity enthusiast with a passion for red teaming and CTFs. I have a strong background in programming and always enjoy a good challenge. You can find me writing/reading writeups or learning about new technologies when I'm not hacking away. I'm always looking for new opportunities to collaborate and learn, so don't hesitate to reach out!</h3>
+<h1 align="center">Certified 0xniller</h1>
+<h3 align="center">I am a cybersecurity enthusiast with a passion for red teaming and CTFs. I have a strong background in programming and I always enjoy solving challenges. <br>
+  A security researcher, with a focus in low level security and operating systems !<br>
+  A part time meme dealer, who actually writes articles 🤡.<br>
+  Captain of Team L3ak -> https://ctftime.org/team/220336 <br>
+  I'm always looking for new opportunities to collaborate and learn, so don't hesitate to reach out!</h3>
 
 - 🔭 I’m currently working on **S3BucketScanner**
 
