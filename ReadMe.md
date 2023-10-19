@@ -4,7 +4,7 @@
 Dedicated and detail-oriented computer science student and security researcher with a passion for competitive hacking and cybersecurity. Proficient in a variety of programming languages and experienced in participating  in CTF competitions.
 - [L3ak](https://l3ak.org/home/) CTF Team Captain -> Top 50 on [CTFtime](https://ctftime.org/team/220336).
   
-- 🔭 I’m currently working on **S3canner**
+- 🔭 I’m currently researching **Insecure Compiler Optimization Security**
 
 - 🌱 I’m currently learning **Cloud Developement and Security**
 
