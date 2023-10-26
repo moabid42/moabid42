@@ -12,7 +12,7 @@ Dedicated and detail-oriented computer science student and security researcher w
 
 - 📝 I regularly write articles on [@m0ab1d42](https://medium.com/@m0ab1d42)
 
-- 📫 How to reach me **mouadabid2002@gmail.com**
+- 📫 How to reach me **moabid42@proton.me**
 
 - ⚡ Fun fact **I am 99% of the time: WHY? Oh that's why :)**
 
