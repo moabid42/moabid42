@@ -1,12 +1,12 @@
 ## 🃏 About Me:
 <h3 align="center">CTF Player | Security Researcher | Web3 enthusiast | Software engineer</h3>
 
-Dedicated and detail-oriented computer science student and security researcher with a passion for competitive hacking and cybersecurity. Proficient in a variety of programming languages and experienced in participating  in CTF competitions.
+Dedicated and detail-oriented computer science student and security researcher passionate about competitive hacking and cybersecurity. Proficient in a variety of programming languages and experience in participating  in CTF competitions.
 - [L3ak](https://l3ak.org/home/) CTF Team Captain -> Top 50 on [CTFtime](https://ctftime.org/team/220336).
   
-- 🔭 I’m currently researching **Insecure Compiler Optimization Security**
+- 🔭 I’m currently researching **Compiler Optimization Security**
 
-- 🌱 I’m currently learning **Cloud Developement and Security**
+- 🌱 I’m currently learning **Cloud Development and Security**
 
 - 💬 Ask me about **Anything Low-level related**
 
