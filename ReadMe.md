@@ -2,7 +2,7 @@
 <h3 align="center">Security Researcher | Reverse Engineer | CTF Player </h3>
 
 Dedicated and detail-oriented computer science student and security researcher passionate about competitive hacking and cybersecurity. Proficient in a variety of programming languages and experience in participating  in CTF competitions.
-- [L3ak](https://l3ak.org/home/) CTF Team Captain -> Top 50 on [CTFtime](https://ctftime.org/team/220336).
+- [L3ak](https://l3ak.org/home/) CTF Team Captain -> Top 1 on [CTFtime](https://ctftime.org/team/220336).
   
 - 🔭 I’m currently researching **Compiler Optimization Security**
 
